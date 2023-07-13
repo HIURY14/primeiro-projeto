@@ -99,7 +99,7 @@ button{
     height: 500px;
 }
 
-@media screen and (max-width:700px){
+@media screen and (max-width:900px){
     .link-header{
         margin: 0;
         padding: 0;
